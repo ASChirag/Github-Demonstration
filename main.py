@@ -10,3 +10,5 @@ if a < 9:
 print("This is the end of the program")
 
 print("This is a new line of code added to the program")
+
+b = 10
